@@ -1,3 +1,7 @@
+I looked at this person's homework, but it wasn't working for me and batch is kinda ew.
+
+https://github.com/Zarpyk/GraphicTabletDriverSwitcher
+
 # TabletDriverSwitch
 ----
 Simple tool for switching between drivers for graphics tablets.
