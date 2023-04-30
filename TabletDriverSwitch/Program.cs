@@ -222,7 +222,7 @@ if(!Directory.Exists(pickedDriverPath))
     }    
 }
 
-bool placedDriver = PlaceDriver(vendor, pickedDriverPath);
+bool placedDriver = PlaceDriver(newVendor, pickedDriverPath);
 
 if (!placedDriver)
 {
