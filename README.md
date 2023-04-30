@@ -35,3 +35,5 @@ GUI maybe if anyone cares? Send me a message on twitter if you want me to fix so
   - I added some that I have to worry about but it's all ReGex so add whatever you like.
 - Sometimes _sometimes_ this doesn't work and what fixes it is unplugging and re-plugging your tablet.
   - Trying to find a windowsey way to automate that so I can just reset the device every time but beats me for now.
+- Scary UAC Window is S U S
+  - ```<requestedExecutionLevel level="requireAdministrator" uiAccess="false" />```
